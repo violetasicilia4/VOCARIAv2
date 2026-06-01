@@ -1,7 +1,4 @@
 [build]
   base    = "vocaria"
-  command = "npm run build"
+  command = ""
   publish = "vocaria/dist"
-
-[build.environment]
-  NODE_VERSION = "22"
