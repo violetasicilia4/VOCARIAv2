@@ -1,2 +1,3 @@
 [build]
-  publish = "vocaria/dist"
+  base    = "vocaria"
+  publish = "dist"
