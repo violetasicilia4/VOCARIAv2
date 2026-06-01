@@ -1,4 +1,2 @@
 [build]
-  base    = "vocaria"
-  command = ""
   publish = "vocaria/dist"
